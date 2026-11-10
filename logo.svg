@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="416" height="82" viewBox="0 0 416 82" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">MMKom’</title>
+  <g fill="none" stroke="#C2185B" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+    <path id="lettre-m-1" d="M15 65V17L40 42 65 17V65"/>
+    <path id="lettre-m-2" d="M97 65V17L122 42 147 17V65"/>
+    <path id="lettre-k" d="M179 17V65M216 17 201 41 218 65"/>
+    <ellipse id="lettre-o" cx="269" cy="41" rx="26" ry="27"/>
+    <path id="lettre-m-3" d="M326 65V17L351 42 376 17V65"/>
+    <path id="apostrophe" d="M404 14 398 26"/>
+  </g>
+</svg>

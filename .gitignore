@@ -1,0 +1,7 @@
+.DS_Store
+_site/
+.venv/
+__pycache__/
+.github/tools/.cache/
+node_modules/
+test-results/

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="favicon-title">
+  <title id="favicon-title">MMKom’</title>
+  <rect width="64" height="64" rx="16" fill="#FFEFF5"/>
+  <g transform="translate(6.4 5.76) scale(.64)" fill="none" stroke="#C2185B" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 65V17L40 42 65 17V65"/>
+  </g>
+</svg>
