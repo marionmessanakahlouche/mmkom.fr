@@ -157,3 +157,9 @@ body:has(dialog[open]){overflow-y:hidden}
 .legal-page .logo{margin-bottom:36px}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}body .ribbon-toggle{display:none}body .photo-card{transition:none}body .photo-card:hover{transform:rotate(5deg)}body .button{transition:none}body .button:hover{transform:none}}
 @media(forced-colors:active){.included,.formula-name{forced-color-adjust:auto}.included{border:1px solid currentColor}}
+
+
+.footer-social-link{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;color:#6b7280;border-radius:50%;text-decoration:none}
+.footer-social-link:hover{background:#6b728014}
+
+.footer-socials{display:flex;align-items:center;gap:4px}
